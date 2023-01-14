@@ -1,12 +1,7 @@
 import React from "react";
-import IceCreamEmoji from './assets/ice-cream-emoji.png';
-import BurgerEmoji from './assets/burger-emoji.png';
-// import PizzaEmoji from './assets/pizza-emoji.png';
-import PizzaEmoji from './assets/telegram-animoji.tgs';
 import FerreroRocher from "./assets/ferrero-rocher.jpeg";
 import KinderBrueno from "./assets/kinder-brueno.jpeg";
 import BrowniesChocolateFudge from "./assets/brownies-chocolate-fudge.jpeg"
-import LindorYellow from "./assets/lidnor-yellow.jpeg"
 import ReesesMiniatureCups from "./assets/reeses-miniature-cups.jpeg"
 import MandMs from "./assets/m-and-ms.jpeg"
 import HersheysCookies from "./assets/hersheys-ccookies.jpeg"
