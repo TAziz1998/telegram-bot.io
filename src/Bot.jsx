@@ -22,14 +22,14 @@ export default function Bot() {
                 <div className="item">
                     <div>
                         <img src={KinderBrueno} alt="" className="img" />
-                        <p className="underline-txt">Burger $3.79</p>
+                        <p className="underline-txt">Kinder brueno $3.79</p>
                     </div>
                     <button className="btn">ADD</button>
                 </div>
                 <div className="item">
                     <div>
                         <img src={FerreroRocher} alt="" className="img" />
-                        <p className="underline-txt">Fries $5.60</p>
+                        <p className="underline-txt">Ferrero rocher $5.60</p>
                     </div>
                     <button className="btn">ADD</button>
                 </div>
