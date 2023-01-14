@@ -1,4 +1,3 @@
-import logo from './logo.svg';
 import Bot from './Bot'
 import './App.css';
 
