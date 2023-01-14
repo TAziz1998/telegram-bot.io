@@ -5,7 +5,8 @@
 .inner {
 	display: grid;
 	grid-template-columns: 1fr 1fr 1fr;
-	grid-template-rows: 170px 170px 170px;
+	grid-template-rows: 180px 180px 180px;
+	margin-top: 10px;
 }
 
 .img {
@@ -43,5 +44,9 @@
 
 .underline-txt {
 	font-size: 12px;
-	font-weight: 700;
+	font-weight: 600;
+	margin: 5px auto;
+	width: 100px;
+	height: 30px;
+	overflow: hidden;
 }
