@@ -1,6 +1,18 @@
 import React from "react";
-import IceCreamEmoji from './ice-cream-emoji.png';
-import BurgerEmoji from './burger-emoji.png';
+import IceCreamEmoji from './assets/ice-cream-emoji.png';
+import BurgerEmoji from './assets/burger-emoji.png';
+// import PizzaEmoji from './assets/pizza-emoji.png';
+import PizzaEmoji from './assets/telegram-animoji.tgs';
+import FerreroRocher from "./assets/ferrero-rocher.jpeg";
+import KinderBrueno from "./assets/kinder-brueno.jpeg";
+import BrowniesChocolateFudge from "./assets/brownies-chocolate-fudge.jpeg"
+import LindorYellow from "./assets/lidnor-yellow.jpeg"
+import ReesesMiniatureCups from "./assets/reeses-miniature-cups.jpeg"
+import MandMs from "./assets/m-and-ms.jpeg"
+import HersheysCookies from "./assets/hersheys-ccookies.jpeg"
+import ChewyChocolateChip from "./assets/chewy-chocholate-chip.jpeg";
+import DoveMilkChocolate from "./assets/Dove-milk-chocolate.jpeg";
+import HersheysNuggets from "./assets/Hersheys-nuggets.jpeg";
 import './bot.css'
 
 export default function Bot() {
@@ -9,63 +21,63 @@ export default function Bot() {
             <div className="inner">
                 <div className="item">
                     <div>
-                        <img src={BurgerEmoji} alt="" className="img" />
-                        <p className="underline-txt">Burger $3.79</p>
+                        <img src={KinderBrueno} alt="" className="img" />
+                        <p className="underline-txt">Kinder brueno $3.79</p>
                     </div>
                     <button className="btn">ADD</button>
                 </div>
                 <div className="item">
                     <div>
-                        <img src={IceCreamEmoji} alt="" className="img" />
-                        <p className="underline-txt">Fries $5.60</p>
+                        <img src={FerreroRocher} alt="" className="img" />
+                        <p className="underline-txt">Ferrero rocher $5.60</p>
                     </div>
                     <button className="btn">ADD</button>
                 </div>
                 <div className="item">
                     <div>
-                        <img src={IceCreamEmoji} alt="" className="img" />
+                        <img src={BrowniesChocolateFudge} alt="" className="img" />
                         <p className="underline-txt">Hotdog $2.35</p>
                     </div>
                     <button className="btn">ADD</button>
                 </div>
                 <div className="item">
                     <div>
-                        <img src={IceCreamEmoji} alt="" className="img" />
+                        <img src={HersheysNuggets} alt="" className="img" />
                         <p className="underline-txt">Tako $1.90</p>
                     </div>
                     <button className="btn">ADD</button>
                 </div>
                 <div className="item">
                     <div>
-                        <img src={IceCreamEmoji} alt="" className="img" />
+                        <img src={ReesesMiniatureCups} alt="" className="img" />
                         <p className="underline-txt">Pizza $7.15</p>
                     </div>
                     <button className="btn">ADD</button>
                 </div>
                 <div className="item">
                     <div>
-                        <img src={IceCreamEmoji} alt="" className="img" />
+                        <img src={MandMs} alt="" className="img" />
                         <p className="underline-txt">Donut $3.45</p>
                     </div>
                     <button className="btn">ADD</button>
                 </div>
                 <div className="item">
                     <div>
-                        <img src={IceCreamEmoji} alt="" className="img" />
+                        <img src={HersheysCookies} alt="" className="img" />
                         <p className="underline-txt">Icecream  5.60$</p>
                     </div>
                     <button className="btn">ADD</button>
                 </div>
                 <div className="item">
                     <div>
-                        <img src={IceCreamEmoji} alt="" className="img" />
+                        <img src={ChewyChocolateChip} alt="" className="img" />
                         <p className="underline-txt">Icecream  5.60$</p>
                     </div>
                     <button className="btn">ADD</button>
                 </div>
                 <div className="item">
                     <div>
-                        <img src={IceCreamEmoji} alt="" className="img" />
+                        <img src={DoveMilkChocolate} alt="" className="img" />
                         <p className="underline-txt">Icecream  5.60$</p>
                     </div>
                     <button className="btn">ADD</button>
