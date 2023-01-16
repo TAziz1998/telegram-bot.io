@@ -12,7 +12,7 @@ import './bot.css'
 import TextFieldDecorator from './Payment'
 
 export default function Bot() {
-    const [counter, setCounter] = useState(0);
+//     const [counter, setCounter] = useState(0);
 
     return (
         // <div className="container">
