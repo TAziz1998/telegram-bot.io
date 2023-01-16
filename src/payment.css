@@ -1,0 +1,138 @@
+.payment-container {
+    /* background-color: #0e0f12; */
+}
+
+.payment-card {
+    margin: 35px auto 10px;
+    text-align: left;
+    /* font-size: 14px; */
+}
+
+.payment-card .custom-wrapper-label {
+    font-size: 14px;
+    margin-left: 5px;
+    color: #ffff;
+    font-weight: 300;
+}
+
+.cardholder-name-wrapper {
+    margin: 35px auto 10px;
+    text-align: left;
+}
+
+.billing-address-wrapper {
+    margin: 35px auto 10px;
+    text-align: left;
+}
+
+.done-btn-wrapper {
+    margin: 40px auto 10px;
+}
+
+.done-btn {
+    width: 100%;
+    background-color: #162836 !important;
+}
+
+/* #0e0f12 */
+
+.billing-address-wrapper .custom-wrapper-label {
+    font-size: 14px;
+    margin-left: 5px;
+    color: #ffff;
+    font-weight: 300;
+}
+
+
+.cardholder-name-wrapper .custom-wrapper-label {
+    font-size: 14px;
+    margin-left: 5px;
+    color: #ffff;
+    font-weight: 300;
+}
+
+.payment-card-container {
+    background: #162836;
+    border-radius: 10px;
+    padding: 10px 15px 10px 15px;
+}
+
+
+.save-info-wrapper {
+    margin: 35px auto 10px;
+    text-align: left;
+}
+
+.save-info-container {
+    background: #162836;
+    border-radius: 10px;
+    padding: 10px 15px 10px 15px;
+}
+
+.save-info-wrapper .save-info-desc {
+    font-size: 11px;
+    margin-left: 5px;
+    color: #ffff;
+}
+
+.payment-card-container .custom-label {
+    width: 80px;
+    text-align: left;
+    font-size: 13px;
+    color: #ffff;
+}
+
+
+.cardholder-name-container .custom-label {
+    width: 80px;
+    text-align: left;
+    font-size: 13px;
+    color: #ffff;
+}
+
+.billing-address-container .custom-label {
+    width: 80px;
+    text-align: left;
+    font-size: 13px;
+    color: #ffff;
+}
+
+.cardholder-name-container {
+    background: #162836;
+    border-radius: 10px;
+    padding: 10px 15px 10px 15px;
+    margin: 10px auto 10px;
+}
+
+.billing-address-container {
+    background: #162836;
+    border-radius: 10px;
+    padding: 10px 15px 10px 15px;
+    margin: 10px auto 10px;
+}
+
+.billing-address-container input {
+    font-size: 13px;
+    color: #ffff;
+}
+
+.billing-address-container select {
+    font-size: 13px;
+    color: #ffff;
+}
+
+.payment-card-container input {
+    font-size: 13px;
+    color: #ffff;
+}
+
+.cardholder-name-container input {
+    font-size: 13px;
+    color: #ffff;
+}
+
+#card-number {
+    color: #ffff;
+}
+
+/* 121317 */
